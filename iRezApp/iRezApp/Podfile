@@ -1,0 +1,7 @@
+platform :ios, '10.0'
+inhibit_all_warnings!
+use_frameworks!
+
+target 'iRezApp' do
+	pod 'Kingfisher', '~> 4.0'
+end
